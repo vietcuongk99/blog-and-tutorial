@@ -1,22 +1,12 @@
 [
   {
-    "label": "facebook",
-    "permalink": "/vi/blog/tags/facebook",
+    "label": "vue",
+    "permalink": "/vi/blog/tags/vue",
     "count": 1
   },
   {
-    "label": "hello",
-    "permalink": "/vi/blog/tags/hello",
-    "count": 2
-  },
-  {
-    "label": "docusaurus",
-    "permalink": "/vi/blog/tags/docusaurus",
-    "count": 4
-  },
-  {
-    "label": "hola",
-    "permalink": "/vi/blog/tags/hola",
+    "label": "webpack",
+    "permalink": "/vi/blog/tags/webpack",
     "count": 1
   }
 ]

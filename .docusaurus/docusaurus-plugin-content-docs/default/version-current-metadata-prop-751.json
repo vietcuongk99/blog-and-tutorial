@@ -17,7 +17,7 @@
       },
       {
         "type": "category",
-        "label": "Tutorial - Basics",
+        "label": "Tutorial basics",
         "collapsible": true,
         "collapsed": true,
         "items": [
@@ -58,7 +58,7 @@
             "docId": "tutorial-basics/congratulations"
           }
         ],
-        "href": "/vi/docs/category/tutorial---basics"
+        "href": "/vi/docs/category/tutorial-basics"
       },
       {
         "type": "category",
@@ -89,7 +89,7 @@
         "items": [
           {
             "type": "link",
-            "label": "Create React v18 TypeScript Project with webpack and Babel",
+            "label": "Tạo project VueJS 3 với Webpack, Babel",
             "href": "/vi/docs/VueJS/installation",
             "docId": "VueJS/installation"
           }
@@ -154,8 +154,8 @@
     },
     "VueJS/installation": {
       "id": "VueJS/installation",
-      "title": "Create React v18 TypeScript Project with webpack and Babel",
-      "description": "Let's discover Docusaurus in less than 5 minutes.",
+      "title": "Tạo project VueJS 3 với Webpack, Babel",
+      "description": "Cập nhật vào 16/2/2023",
       "sidebar": "tutorialSidebar"
     }
   }

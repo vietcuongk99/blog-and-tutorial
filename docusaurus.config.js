@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
+  title: 'Ez2L',
+  tagline: 'Just a blog',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -64,9 +64,9 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'My Site',
+        title: 'Ez2L',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'Ez2L logo',
           src: 'img/logo.svg',
         },
         items: [
@@ -78,7 +78,7 @@ const config = {
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/vietcuongk99',
             label: 'GitHub',
             position: 'right',
           },
@@ -137,6 +137,14 @@ const config = {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
       },
+      // announcementBar: {
+      //   id: 'support_us',
+      //   content:
+      //     'Nếu bạn thấy nội dung này có ích, hãy donate cho tôi tại <a target="_blank" rel="donate" href="#">đây</a>',
+      //   backgroundColor: '#fafbfc',
+      //   textColor: '#091E42',
+      //   isCloseable: false,
+      // },
     }),
 };
 

@@ -4,8 +4,8 @@
  * Modify the docusaurus.config.js file at your site's root instead.
  */
 export default {
-  "title": "My Site",
-  "tagline": "Dinosaurs are cool",
+  "title": "Ez2L",
+  "tagline": "Just a blog",
   "favicon": "img/favicon.ico",
   "url": "https://your-docusaurus-test-site.com",
   "baseUrl": "/vi/",
@@ -27,7 +27,7 @@ export default {
       "classic",
       {
         "docs": {
-          "sidebarPath": "D:\\projects\\personal\\blog\\sidebars.js",
+          "sidebarPath": "D:\\projects\\personal\\blog-and-tutorial\\sidebars.js",
           "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
         },
         "blog": {
@@ -35,7 +35,7 @@ export default {
           "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
         },
         "theme": {
-          "customCss": "D:\\projects\\personal\\blog\\src\\css\\custom.css"
+          "customCss": "D:\\projects\\personal\\blog-and-tutorial\\src\\css\\custom.css"
         }
       }
     ]
@@ -43,9 +43,9 @@ export default {
   "themeConfig": {
     "image": "img/docusaurus-social-card.jpg",
     "navbar": {
-      "title": "My Site",
+      "title": "Ez2L",
       "logo": {
-        "alt": "My Site Logo",
+        "alt": "Ez2L logo",
         "src": "img/logo.svg"
       },
       "items": [
@@ -61,7 +61,7 @@ export default {
           "position": "left"
         },
         {
-          "href": "https://github.com/facebook/docusaurus",
+          "href": "https://github.com/vietcuongk99",
           "label": "GitHub",
           "position": "right"
         },

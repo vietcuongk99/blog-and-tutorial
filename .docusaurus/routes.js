@@ -4,112 +4,87 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 export default [
   {
     path: '/vi/__docusaurus/debug',
-    component: ComponentCreator('/vi/__docusaurus/debug', '179'),
+    component: ComponentCreator('/vi/__docusaurus/debug', '0f5'),
     exact: true
   },
   {
     path: '/vi/__docusaurus/debug/config',
-    component: ComponentCreator('/vi/__docusaurus/debug/config', 'e0d'),
+    component: ComponentCreator('/vi/__docusaurus/debug/config', '8f6'),
     exact: true
   },
   {
     path: '/vi/__docusaurus/debug/content',
-    component: ComponentCreator('/vi/__docusaurus/debug/content', '6a1'),
+    component: ComponentCreator('/vi/__docusaurus/debug/content', '05f'),
     exact: true
   },
   {
     path: '/vi/__docusaurus/debug/globalData',
-    component: ComponentCreator('/vi/__docusaurus/debug/globalData', 'a4d'),
+    component: ComponentCreator('/vi/__docusaurus/debug/globalData', '574'),
     exact: true
   },
   {
     path: '/vi/__docusaurus/debug/metadata',
-    component: ComponentCreator('/vi/__docusaurus/debug/metadata', 'c2f'),
+    component: ComponentCreator('/vi/__docusaurus/debug/metadata', '1d3'),
     exact: true
   },
   {
     path: '/vi/__docusaurus/debug/registry',
-    component: ComponentCreator('/vi/__docusaurus/debug/registry', '329'),
+    component: ComponentCreator('/vi/__docusaurus/debug/registry', 'ce6'),
     exact: true
   },
   {
     path: '/vi/__docusaurus/debug/routes',
-    component: ComponentCreator('/vi/__docusaurus/debug/routes', '549'),
+    component: ComponentCreator('/vi/__docusaurus/debug/routes', '953'),
     exact: true
   },
   {
     path: '/vi/blog',
-    component: ComponentCreator('/vi/blog', '306'),
+    component: ComponentCreator('/vi/blog', 'd93'),
     exact: true
   },
   {
     path: '/vi/blog/archive',
-    component: ComponentCreator('/vi/blog/archive', '4d3'),
+    component: ComponentCreator('/vi/blog/archive', 'c69'),
     exact: true
   },
   {
-    path: '/vi/blog/first-blog-post',
-    component: ComponentCreator('/vi/blog/first-blog-post', '1a5'),
-    exact: true
-  },
-  {
-    path: '/vi/blog/long-blog-post',
-    component: ComponentCreator('/vi/blog/long-blog-post', 'a28'),
-    exact: true
-  },
-  {
-    path: '/vi/blog/mdx-blog-post',
-    component: ComponentCreator('/vi/blog/mdx-blog-post', '2b0'),
+    path: '/vi/blog/create vue project from scratch',
+    component: ComponentCreator('/vi/blog/create vue project from scratch', 'a93'),
     exact: true
   },
   {
     path: '/vi/blog/tags',
-    component: ComponentCreator('/vi/blog/tags', '37c'),
+    component: ComponentCreator('/vi/blog/tags', 'c4f'),
     exact: true
   },
   {
-    path: '/vi/blog/tags/docusaurus',
-    component: ComponentCreator('/vi/blog/tags/docusaurus', 'b8d'),
+    path: '/vi/blog/tags/vue',
+    component: ComponentCreator('/vi/blog/tags/vue', 'a13'),
     exact: true
   },
   {
-    path: '/vi/blog/tags/facebook',
-    component: ComponentCreator('/vi/blog/tags/facebook', '135'),
-    exact: true
-  },
-  {
-    path: '/vi/blog/tags/hello',
-    component: ComponentCreator('/vi/blog/tags/hello', '155'),
-    exact: true
-  },
-  {
-    path: '/vi/blog/tags/hola',
-    component: ComponentCreator('/vi/blog/tags/hola', 'a4f'),
-    exact: true
-  },
-  {
-    path: '/vi/blog/welcome',
-    component: ComponentCreator('/vi/blog/welcome', '44a'),
+    path: '/vi/blog/tags/webpack',
+    component: ComponentCreator('/vi/blog/tags/webpack', '857'),
     exact: true
   },
   {
     path: '/vi/markdown-page',
-    component: ComponentCreator('/vi/markdown-page', '896'),
+    component: ComponentCreator('/vi/markdown-page', 'f34'),
     exact: true
   },
   {
     path: '/vi/docs',
-    component: ComponentCreator('/vi/docs', '1de'),
+    component: ComponentCreator('/vi/docs', '72c'),
     routes: [
       {
-        path: '/vi/docs/category/tutorial---basics',
-        component: ComponentCreator('/vi/docs/category/tutorial---basics', '7c2'),
+        path: '/vi/docs/category/tutorial---extras',
+        component: ComponentCreator('/vi/docs/category/tutorial---extras', '0f0'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/vi/docs/category/tutorial---extras',
-        component: ComponentCreator('/vi/docs/category/tutorial---extras', '0f0'),
+        path: '/vi/docs/category/tutorial-basics',
+        component: ComponentCreator('/vi/docs/category/tutorial-basics', 'f96'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
@@ -169,7 +144,7 @@ export default [
       },
       {
         path: '/vi/docs/VueJS/installation',
-        component: ComponentCreator('/vi/docs/VueJS/installation', 'dd0'),
+        component: ComponentCreator('/vi/docs/VueJS/installation', 'a46'),
         exact: true,
         sidebar: "tutorialSidebar"
       }
@@ -177,7 +152,7 @@ export default [
   },
   {
     path: '/vi/',
-    component: ComponentCreator('/vi/', 'dfa'),
+    component: ComponentCreator('/vi/', '707'),
     exact: true
   },
   {

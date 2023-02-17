@@ -1,9 +1,9 @@
 {
   "unversionedId": "VueJS/installation",
   "id": "VueJS/installation",
-  "title": "Creating Your First Vue 3 Project - A Vue Tutorial",
-  "description": "Last Updated on Dec 30, 2020",
-  "source": "@site/docs/VueJS/installation.md",
+  "title": "Tạo project VueJS 3 với Webpack, Babel",
+  "description": "Cập nhật vào 16/2/2023",
+  "source": "@site/i18n/vi/docusaurus-plugin-content-docs/current/VueJS/installation.md",
   "sourceDirName": "VueJS",
   "slug": "/VueJS/installation",
   "permalink": "/vi/docs/VueJS/installation",

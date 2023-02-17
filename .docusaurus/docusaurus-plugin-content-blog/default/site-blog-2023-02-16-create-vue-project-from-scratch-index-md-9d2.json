@@ -1,0 +1,41 @@
+{
+  "permalink": "/vi/blog/create vue project from scratch",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2023-02-16-create-vue-project-from-scratch/index.md",
+  "source": "@site/blog/2023-02-16-create-vue-project-from-scratch/index.md",
+  "title": "Tạo project Vue 3 sử dụng Webpack",
+  "description": "Lời mở đầu",
+  "date": "2023-02-16T00:00:00.000Z",
+  "formattedDate": "16 tháng 2, 2023",
+  "tags": [
+    {
+      "label": "vue",
+      "permalink": "/vi/blog/tags/vue"
+    },
+    {
+      "label": "webpack",
+      "permalink": "/vi/blog/tags/webpack"
+    }
+  ],
+  "readingTime": 6.98,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Cuong Dinh Viet",
+      "title": "Front End Developer @ GHTK",
+      "url": "https://github.com/vietcuongk99",
+      "imageURL": "https://github.com/vietcuongk99.png",
+      "key": "vietcuong"
+    }
+  ],
+  "frontMatter": {
+    "slug": "create vue project from scratch",
+    "title": "Tạo project Vue 3 sử dụng Webpack",
+    "authors": [
+      "vietcuong"
+    ],
+    "tags": [
+      "vue",
+      "webpack"
+    ]
+  }
+}

@@ -1,16 +1,33 @@
-# Creating Your First Vue 3 Project - A Vue Tutorial
+# Tạo project VueJS 3 với Webpack, Babel
 
-Last Updated on Dec 30, 2020
+Cập nhật vào 16/2/2023
 
-Vue 3 is officially here! In [this announcement](https://www.youtube.com/watch?v=Vp5ANvd88x0) by Evan You, he announces the biggest changes in the new framework and talks about the amazing work the whole Vue team has done.
+## Lời mở đầu
+[Vue.js](https://vuejs.org/guide/introduction.html) là một framework Javascript được tạo bởi Evan You, giúp chúng ta xây dựng giao diện người dùng.
 
-Developers have long been awaiting the really cool features announced for Vue 3 like TypeScript support, better organization for large projects, and rendering optimizations that make for better Vue apps.
+VueJS có hai phiên bản, Vue 2 và Vue 3. Ngoài ra, VueJS được sử dụng để tạo giao diện người dùng với nhiều [mục đích](https://vuejs.org/guide/extras/ways-of-using-vue.html#), tuỳ vào một số nhu cầu của người sử dụng nó.
 
-In this Vue 3 tutorial, we’ll be building a search system that uses a text input to filter articles from an array.
+Trong phạm vi bài viết này, mình tập trung vào việc khởi tạo một project VueJS trong phát triển ứng dụng web, cụ thể là Single-Page Application (SPA)
 
-By the end of this tutorial, you’ll have created a Vue 3 project, built two components with the Composition API.
+Vậy, chúng ta có lựa chọn nào? Dưới đây là một lựa chọn phổ biến và thuận tiện (theo mình) để khởi tạo một project VueJS:
 
-Here’s what we’re going to be making.
+- [Vue CLI](https://cli.vuejs.org/)
+
+```
+// cài đặt
+npm install -g @vue/cli
+# OR
+yarn global add @vue/cli
+
+//khởi tạo project hello-world
+vue create hello-world
+```
+
+Vậy Vue CLI là gì? Hình bên dưới là mô tả ngắn gọn về nó trên trang chủ [Vue CLI](https://cli.vuejs.org/)
+
+![vue-cli](vue-cli.png)
+
+Thật dễ dàng phải không nào ? Chỉ với một vài command line, Vue CLI cung cấp cho chúng ta một cách để khởi tạo project VueJS rất thuận tiện. Tuy nhiên, 
 
 ![](https://dltqhkoxgn1gx.cloudfront.net/img/posts/setting-up-your-first-vue3-project-vue-3-0-release-1.gif)
 

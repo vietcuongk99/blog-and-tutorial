@@ -1,205 +1,132 @@
 {
-  "/vi/__docusaurus/debug-179": {
+  "/vi/__docusaurus/debug-0f5": {
     "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "plugin---vi-docusaurus-debugc-3-d-0bf"
+      "plugin": "plugin---vi-docusaurus-debug-476-8a6"
     }
   },
-  "/vi/__docusaurus/debug/config-e0d": {
+  "/vi/__docusaurus/debug/config-8f6": {
     "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "plugin---vi-docusaurus-debugc-3-d-0bf"
+      "plugin": "plugin---vi-docusaurus-debug-476-8a6"
     }
   },
-  "/vi/__docusaurus/debug/content-6a1": {
+  "/vi/__docusaurus/debug/content-05f": {
     "__comp": "__comp---theme-debug-contentba-8-ce7",
     "__context": {
-      "plugin": "plugin---vi-docusaurus-debugc-3-d-0bf"
+      "plugin": "plugin---vi-docusaurus-debug-476-8a6"
     },
     "allContent": "allContent---vi-docusaurus-debug-content-246-fce"
   },
-  "/vi/__docusaurus/debug/globalData-a4d": {
+  "/vi/__docusaurus/debug/globalData-574": {
     "__comp": "__comp---theme-debug-global-dataede-0fa",
     "__context": {
-      "plugin": "plugin---vi-docusaurus-debugc-3-d-0bf"
+      "plugin": "plugin---vi-docusaurus-debug-476-8a6"
     }
   },
-  "/vi/__docusaurus/debug/metadata-c2f": {
+  "/vi/__docusaurus/debug/metadata-1d3": {
     "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
     "__context": {
-      "plugin": "plugin---vi-docusaurus-debugc-3-d-0bf"
+      "plugin": "plugin---vi-docusaurus-debug-476-8a6"
     }
   },
-  "/vi/__docusaurus/debug/registry-329": {
+  "/vi/__docusaurus/debug/registry-ce6": {
     "__comp": "__comp---theme-debug-registry-679-501",
     "__context": {
-      "plugin": "plugin---vi-docusaurus-debugc-3-d-0bf"
+      "plugin": "plugin---vi-docusaurus-debug-476-8a6"
     }
   },
-  "/vi/__docusaurus/debug/routes-549": {
+  "/vi/__docusaurus/debug/routes-953": {
     "__comp": "__comp---theme-debug-routes-946-699",
     "__context": {
-      "plugin": "plugin---vi-docusaurus-debugc-3-d-0bf"
+      "plugin": "plugin---vi-docusaurus-debug-476-8a6"
     }
   },
-  "/vi/blog-306": {
+  "/vi/blog-d93": {
     "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
     "__context": {
-      "plugin": "plugin---vi-bloge-37-946"
+      "plugin": "plugin---vi-blog-295-bd9"
     },
     "sidebar": "sidebar---vi-blog-814-e34",
     "items": [
       {
-        "content": "content---vi-blog-766-3f4"
-      },
-      {
-        "content": "content---vi-blogf-4-f-6c5"
-      },
-      {
-        "content": "content---vi-blog-871-9b3"
-      },
-      {
-        "content": "content---vi-blog-925-6da"
+        "content": "content---vi-blog-8-da-1c1"
       }
     ],
     "metadata": "metadata---vi-blog-5-fa-8f2"
   },
-  "/vi/blog/archive-4d3": {
+  "/vi/blog/archive-c69": {
     "__comp": "__comp---theme-blog-archive-page-9-e-4-1d8",
     "__context": {
-      "plugin": "plugin---vi-bloge-37-946"
+      "plugin": "plugin---vi-blog-295-bd9"
     },
     "archive": "archive---vi-blog-archive-509-a2b"
   },
-  "/vi/blog/first-blog-post-1a5": {
+  "/vi/blog/create vue project from scratch-a93": {
     "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
-      "plugin": "plugin---vi-bloge-37-946"
+      "plugin": "plugin---vi-blog-295-bd9"
     },
     "sidebar": "sidebar---vi-blog-814-e34",
-    "content": "content---vi-blog-first-blog-poste-27-399"
+    "content": "content---vi-blog-create-vue-project-from-scratch-9-d-2-e5a"
   },
-  "/vi/blog/long-blog-post-a28": {
-    "__comp": "__comp---theme-blog-post-pageccc-cab",
-    "__context": {
-      "plugin": "plugin---vi-bloge-37-946"
-    },
-    "sidebar": "sidebar---vi-blog-814-e34",
-    "content": "content---vi-blog-long-blog-post-736-b63"
-  },
-  "/vi/blog/mdx-blog-post-2b0": {
-    "__comp": "__comp---theme-blog-post-pageccc-cab",
-    "__context": {
-      "plugin": "plugin---vi-bloge-37-946"
-    },
-    "sidebar": "sidebar---vi-blog-814-e34",
-    "content": "content---vi-blog-mdx-blog-post-593-5b8"
-  },
-  "/vi/blog/tags-37c": {
+  "/vi/blog/tags-c4f": {
     "__comp": "__comp---theme-blog-tags-list-page-01-a-d0b",
     "__context": {
-      "plugin": "plugin---vi-bloge-37-946"
+      "plugin": "plugin---vi-blog-295-bd9"
     },
     "sidebar": "sidebar---vi-blog-814-e34",
     "tags": "tags---vi-blog-tagsda-8-f93"
   },
-  "/vi/blog/tags/docusaurus-b8d": {
+  "/vi/blog/tags/vue-a13": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
-      "plugin": "plugin---vi-bloge-37-946"
+      "plugin": "plugin---vi-blog-295-bd9"
     },
     "sidebar": "sidebar---vi-blog-814-e34",
     "items": [
       {
-        "content": "content---vi-blog-766-3f4"
-      },
-      {
-        "content": "content---vi-blogf-4-f-6c5"
-      },
-      {
-        "content": "content---vi-blog-871-9b3"
-      },
-      {
-        "content": "content---vi-blog-925-6da"
+        "content": "content---vi-blog-8-da-1c1"
       }
     ],
-    "tag": "tag---vi-blog-tags-docusaurusb-90-b8f",
-    "listMetadata": "listMetadata---vi-blog-tags-docusauruse-3-a-2dc"
+    "tag": "tag---vi-blog-tags-vue-510-641",
+    "listMetadata": "listMetadata---vi-blog-tags-vueae-1-4fe"
   },
-  "/vi/blog/tags/facebook-135": {
+  "/vi/blog/tags/webpack-857": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
-      "plugin": "plugin---vi-bloge-37-946"
+      "plugin": "plugin---vi-blog-295-bd9"
     },
     "sidebar": "sidebar---vi-blog-814-e34",
     "items": [
       {
-        "content": "content---vi-blog-766-3f4"
+        "content": "content---vi-blog-8-da-1c1"
       }
     ],
-    "tag": "tag---vi-blog-tags-facebookd-69-efc",
-    "listMetadata": "listMetadata---vi-blog-tags-facebook-284-00b"
+    "tag": "tag---vi-blog-tags-webpack-52-b-f6a",
+    "listMetadata": "listMetadata---vi-blog-tags-webpack-462-6de"
   },
-  "/vi/blog/tags/hello-155": {
-    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
-    "__context": {
-      "plugin": "plugin---vi-bloge-37-946"
-    },
-    "sidebar": "sidebar---vi-blog-814-e34",
-    "items": [
-      {
-        "content": "content---vi-blog-766-3f4"
-      },
-      {
-        "content": "content---vi-blog-871-9b3"
-      }
-    ],
-    "tag": "tag---vi-blog-tags-hellocd-5-ab5",
-    "listMetadata": "listMetadata---vi-blog-tags-hello-93-b-048"
-  },
-  "/vi/blog/tags/hola-a4f": {
-    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
-    "__context": {
-      "plugin": "plugin---vi-bloge-37-946"
-    },
-    "sidebar": "sidebar---vi-blog-814-e34",
-    "items": [
-      {
-        "content": "content---vi-blog-925-6da"
-      }
-    ],
-    "tag": "tag---vi-blog-tags-hola-222-05e",
-    "listMetadata": "listMetadata---vi-blog-tags-hola-573-1db"
-  },
-  "/vi/blog/welcome-44a": {
-    "__comp": "__comp---theme-blog-post-pageccc-cab",
-    "__context": {
-      "plugin": "plugin---vi-bloge-37-946"
-    },
-    "sidebar": "sidebar---vi-blog-814-e34",
-    "content": "content---vi-blog-welcomed-9-f-82f"
-  },
-  "/vi/markdown-page-896": {
+  "/vi/markdown-page-f34": {
     "__comp": "__comp---theme-mdx-page-1-f-3-b90",
     "__context": {
-      "plugin": "plugin---vi-markdown-page-119-acd"
+      "plugin": "plugin---vi-markdown-pagecc-0-7f8"
     },
-    "content": "content---vi-markdown-page-403-3a2"
+    "content": "content---vi-markdown-page-393-ea2"
   },
-  "/vi/docs-1de": {
+  "/vi/docs-72c": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
-      "plugin": "plugin---vi-docse-0-c-bf4"
+      "plugin": "plugin---vi-docs-176-d44"
     },
     "versionMetadata": "versionMetadata---vi-docs-935-98e"
-  },
-  "/vi/docs/category/tutorial---basics-7c2": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---vi-docs-category-tutorial-basicsddd-07a"
   },
   "/vi/docs/category/tutorial---extras-0f0": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "categoryGeneratedIndex": "categoryGeneratedIndex---vi-docs-category-tutorial-extrasbc-1-0f7"
+  },
+  "/vi/docs/category/tutorial-basics-f96": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---vi-docs-category-tutorial-basics-11-d-546"
   },
   "/vi/docs/intro-551": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -237,14 +164,14 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---vi-docs-tutorial-extras-translate-your-site-2-c-3-693"
   },
-  "/vi/docs/VueJS/installation-dd0": {
+  "/vi/docs/VueJS/installation-a46": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---vi-docs-vue-js-installationc-3-e-aad"
+    "content": "content---vi-docs-vue-js-installationaf-2-2ff"
   },
-  "/vi/-dfa": {
+  "/vi/-707": {
     "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
     "__context": {
-      "plugin": "plugin---vi-markdown-page-119-acd"
+      "plugin": "plugin---vi-markdown-pagecc-0-7f8"
     },
     "config": "config---vi-5-e-9-d23"
   }

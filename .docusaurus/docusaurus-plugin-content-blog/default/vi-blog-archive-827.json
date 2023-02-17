@@ -1,218 +1,49 @@
 {
   "blogPosts": [
     {
-      "id": "welcome",
+      "id": "create vue project from scratch",
       "metadata": {
-        "permalink": "/vi/blog/welcome",
-        "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2021-08-26-welcome/index.md",
-        "source": "@site/blog/2021-08-26-welcome/index.md",
-        "title": "Welcome",
-        "description": "Docusaurus blogging features are powered by the blog plugin.",
-        "date": "2021-08-26T00:00:00.000Z",
-        "formattedDate": "26 tháng 8, 2021",
+        "permalink": "/vi/blog/create vue project from scratch",
+        "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2023-02-16-create-vue-project-from-scratch/index.md",
+        "source": "@site/blog/2023-02-16-create-vue-project-from-scratch/index.md",
+        "title": "Tạo project Vue 3 sử dụng Webpack",
+        "description": "Lời mở đầu",
+        "date": "2023-02-16T00:00:00.000Z",
+        "formattedDate": "16 tháng 2, 2023",
         "tags": [
           {
-            "label": "facebook",
-            "permalink": "/vi/blog/tags/facebook"
+            "label": "vue",
+            "permalink": "/vi/blog/tags/vue"
           },
           {
-            "label": "hello",
-            "permalink": "/vi/blog/tags/hello"
-          },
-          {
-            "label": "docusaurus",
-            "permalink": "/vi/blog/tags/docusaurus"
+            "label": "webpack",
+            "permalink": "/vi/blog/tags/webpack"
           }
         ],
-        "readingTime": 0.405,
+        "readingTime": 6.98,
         "hasTruncateMarker": false,
         "authors": [
           {
-            "name": "Sébastien Lorber",
-            "title": "Docusaurus maintainer",
-            "url": "https://sebastienlorber.com",
-            "imageURL": "https://github.com/slorber.png",
-            "key": "slorber"
-          },
-          {
-            "name": "Yangshun Tay",
-            "title": "Front End Engineer @ Facebook",
-            "url": "https://github.com/yangshun",
-            "imageURL": "https://github.com/yangshun.png",
-            "key": "yangshun"
+            "name": "Cuong Dinh Viet",
+            "title": "Front End Developer @ GHTK",
+            "url": "https://github.com/vietcuongk99",
+            "imageURL": "https://github.com/vietcuongk99.png",
+            "key": "vietcuong"
           }
         ],
         "frontMatter": {
-          "slug": "welcome",
-          "title": "Welcome",
+          "slug": "create vue project from scratch",
+          "title": "Tạo project Vue 3 sử dụng Webpack",
           "authors": [
-            "slorber",
-            "yangshun"
+            "vietcuong"
           ],
           "tags": [
-            "facebook",
-            "hello",
-            "docusaurus"
+            "vue",
+            "webpack"
           ]
-        },
-        "nextItem": {
-          "title": "MDX Blog Post",
-          "permalink": "/vi/blog/mdx-blog-post"
         }
       },
-      "content": "[Docusaurus blogging features](https://docusaurus.io/docs/blog) are powered by the [blog plugin](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog).\n\nSimply add Markdown files (or folders) to the `blog` directory.\n\nRegular blog authors can be added to `authors.yml`.\n\nThe blog post date can be extracted from filenames, such as:\n\n- `2019-05-30-welcome.md`\n- `2019-05-30-welcome/index.md`\n\nA blog post folder can be convenient to co-locate blog post images:\n\n![Docusaurus Plushie](./docusaurus-plushie-banner.jpeg)\n\nThe blog supports tags as well!\n\n**And if you don't want a blog**: just delete this directory, and use `blog: false` in your Docusaurus config."
-    },
-    {
-      "id": "mdx-blog-post",
-      "metadata": {
-        "permalink": "/vi/blog/mdx-blog-post",
-        "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2021-08-01-mdx-blog-post.mdx",
-        "source": "@site/blog/2021-08-01-mdx-blog-post.mdx",
-        "title": "MDX Blog Post",
-        "description": "Blog posts support Docusaurus Markdown features, such as MDX.",
-        "date": "2021-08-01T00:00:00.000Z",
-        "formattedDate": "1 tháng 8, 2021",
-        "tags": [
-          {
-            "label": "docusaurus",
-            "permalink": "/vi/blog/tags/docusaurus"
-          }
-        ],
-        "readingTime": 0.175,
-        "hasTruncateMarker": false,
-        "authors": [
-          {
-            "name": "Sébastien Lorber",
-            "title": "Docusaurus maintainer",
-            "url": "https://sebastienlorber.com",
-            "imageURL": "https://github.com/slorber.png",
-            "key": "slorber"
-          }
-        ],
-        "frontMatter": {
-          "slug": "mdx-blog-post",
-          "title": "MDX Blog Post",
-          "authors": [
-            "slorber"
-          ],
-          "tags": [
-            "docusaurus"
-          ]
-        },
-        "prevItem": {
-          "title": "Welcome",
-          "permalink": "/vi/blog/welcome"
-        },
-        "nextItem": {
-          "title": "Long Blog Post",
-          "permalink": "/vi/blog/long-blog-post"
-        }
-      },
-      "content": "Blog posts support [Docusaurus Markdown features](https://docusaurus.io/docs/markdown-features), such as [MDX](https://mdxjs.com/).\n\n:::tip\n\nUse the power of React to create interactive blog posts.\n\n```js\n<button onClick={() => alert('button clicked!')}>Click me!</button>\n```\n\n<button onClick={() => alert('button clicked!')}>Click me!</button>\n\n:::"
-    },
-    {
-      "id": "long-blog-post",
-      "metadata": {
-        "permalink": "/vi/blog/long-blog-post",
-        "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2019-05-29-long-blog-post.md",
-        "source": "@site/blog/2019-05-29-long-blog-post.md",
-        "title": "Long Blog Post",
-        "description": "This is the summary of a very long blog post,",
-        "date": "2019-05-29T00:00:00.000Z",
-        "formattedDate": "29 tháng 5, 2019",
-        "tags": [
-          {
-            "label": "hello",
-            "permalink": "/vi/blog/tags/hello"
-          },
-          {
-            "label": "docusaurus",
-            "permalink": "/vi/blog/tags/docusaurus"
-          }
-        ],
-        "readingTime": 2.05,
-        "hasTruncateMarker": true,
-        "authors": [
-          {
-            "name": "Endilie Yacop Sucipto",
-            "title": "Maintainer of Docusaurus",
-            "url": "https://github.com/endiliey",
-            "imageURL": "https://github.com/endiliey.png",
-            "key": "endi"
-          }
-        ],
-        "frontMatter": {
-          "slug": "long-blog-post",
-          "title": "Long Blog Post",
-          "authors": "endi",
-          "tags": [
-            "hello",
-            "docusaurus"
-          ]
-        },
-        "prevItem": {
-          "title": "MDX Blog Post",
-          "permalink": "/vi/blog/mdx-blog-post"
-        },
-        "nextItem": {
-          "title": "First Blog Post",
-          "permalink": "/vi/blog/first-blog-post"
-        }
-      },
-      "content": "This is the summary of a very long blog post,\n\nUse a `<!--` `truncate` `-->` comment to limit blog post size in the list view.\n\n<!--truncate-->\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet"
-    },
-    {
-      "id": "first-blog-post",
-      "metadata": {
-        "permalink": "/vi/blog/first-blog-post",
-        "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2019-05-28-first-blog-post.md",
-        "source": "@site/blog/2019-05-28-first-blog-post.md",
-        "title": "First Blog Post",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet",
-        "date": "2019-05-28T00:00:00.000Z",
-        "formattedDate": "28 tháng 5, 2019",
-        "tags": [
-          {
-            "label": "hola",
-            "permalink": "/vi/blog/tags/hola"
-          },
-          {
-            "label": "docusaurus",
-            "permalink": "/vi/blog/tags/docusaurus"
-          }
-        ],
-        "readingTime": 0.12,
-        "hasTruncateMarker": false,
-        "authors": [
-          {
-            "name": "Gao Wei",
-            "title": "Docusaurus Core Team",
-            "url": "https://github.com/wgao19",
-            "image_url": "https://github.com/wgao19.png",
-            "imageURL": "https://github.com/wgao19.png"
-          }
-        ],
-        "frontMatter": {
-          "slug": "first-blog-post",
-          "title": "First Blog Post",
-          "authors": {
-            "name": "Gao Wei",
-            "title": "Docusaurus Core Team",
-            "url": "https://github.com/wgao19",
-            "image_url": "https://github.com/wgao19.png",
-            "imageURL": "https://github.com/wgao19.png"
-          },
-          "tags": [
-            "hola",
-            "docusaurus"
-          ]
-        },
-        "prevItem": {
-          "title": "Long Blog Post",
-          "permalink": "/vi/blog/long-blog-post"
-        }
-      },
-      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet"
+      "content": "## Lời mở đầu\r\n[Vue.js](https://vuejs.org/guide/introduction.html) là một framework Javascript được tạo ra bởi Evan You, giúp xây dựng giao diện người dùng.\r\n\r\nVue có hai phiên bản, Vue 2 (ra mắt năm 2016) và Vue 3 (2020 ra mắt beta, 2022 ra mắt [chính thức](https://blog.vuejs.org/posts/vue-3-as-the-new-default.html)). Ngoài ra, Vue được sử dụng để tạo giao diện người dùng với nhiều [mục đích](https://vuejs.org/guide/extras/ways-of-using-vue.html#), tuỳ vào một số nhu cầu của người sử dụng nó.\r\n\r\nTrong phạm vi bài viết, chúng ta tập trung vào việc tạo một project Vue cho phát triển ứng dụng web. Phiên bản Vue được lựa chọn sẽ là phiên bản mới nhất - Vue 3.\r\n\r\nVậy, chúng ta có cách nào để tạo một project Vue? Dưới đây là lựa chọn trên trang chủ của Vue:\r\n\r\n- [Vue.js](https://vuejs.org/guide/quick-start.html)\r\n\r\n```\r\nnpm init vue@latest\r\n```\r\n\r\n<p align=\"center\">\r\n  <img src=\"https://media.giphy.com/media/zcCGBRQshGdt6/giphy.gif\" alt=\"animated\" />\r\n</p>\r\n\r\nThật dễ dàng phải không nào ? Chỉ với một dòng lệnh, npm sẽ thực thi [create-vue](https://github.com/vuejs/create-vue), giúp chúng ta khởi tạo project Vue rất thuận tiện.\r\nMột số câu hỏi cấu hình cho project sẽ do bạn chọn hoặc được tự động thực hiện, giúp giảm thời gian khởi tạo và cấu hình project.\r\n\r\n<p align=\"center\">\r\n  <q><i>Life is not that easy</i></q> 😳\r\n</p>\r\n\r\n\r\nTuy nhiên, nếu project của chúng ta mở rộng hơn trong tương lai? Sẽ có các vấn đề xảy đến, ví dụ bạn cần cấu hình cho project có nhiều hơn một entry point, hoặc cố gắng cải thiện hiệu suất,...\r\n\r\n\r\nTrong trường hợp trên, tốt hơn hết là chúng ta nên tạo project Vue từ đầu, cùng với công cụ là webpack. Bạn có thể đọc chi tiết về công cụ này tại đây:\r\n\r\n- [Webpack](https://webpack.js.org/)\r\n\r\n## Tạo thư mục chứa project\r\n\r\nTrước hết, chúng ta cần khởi tạo project và chuẩn bị cho việc cài đặt Vue cũng như các công cụ hỗ trợ.\r\n\r\nTạo mới thư mục tên 'vue3-from-scratch', hoặc bất cứ cái tên nào mà bạn thích. Mở CMD và gõ dòng lệch bên dưới, đảm bảo rằng bạn đã cài đặt [Node.js](https://nodejs.org/en/download/) nhé:\r\n\r\n```\r\nnpm init\r\n```\r\n\r\nCác tuỳ chọn sẽ hiển thị tương tự như trong ảnh sau, bạn có thể lựa chọn không điền nếu muốn để mặc định:\r\n\r\n![npm-init](npm-init.png)\r\n\r\nTập tin `package.json` được tạo mới với thông tin như ảnh sau:\r\n\r\n![package-json](package-json.png)\r\n\r\n\r\n## Cài đặt webpack\r\n\r\nTrong phần này, chúng ta sẽ bắt đầu cài đặt webpack. Webpack được mô tả trong [tài liệu](https://webpack.js.org/concepts/) là một 'static module bundler'.\r\n\r\n:::info\r\nMột cách dễ hiểu, trong quá trình code, bạn sẽ cần khai báo, sử dụng image, font, các module hoặc thư viện đã cài tại rất nhiều file khác nhau của project.\r\nWebpack coi chúng là 'dependency' (phụ thuộc).\r\nTừ những 'dependency' này, Webpack sẽ tạo nên một 'dependency graph', tạm hiểu như một mô hình liên kết, bao gồm toàn bộ các module mà project cần, đóng gói chúng lại thành một hoặc một số file.\r\n\r\n![webpack-bundle](webpack-bundle.png)\r\n\r\n:::\r\n\r\nWebpack cung cấp các gói cài đặt cần thiết, bao gồm `webpack dev server` và `webpack-cli`.\r\n\r\n- `webpack dev server`: dev server hỗ trợ hot loading\r\n- `webpack-cli`: công cụ cung cấp các dòng lệnh của webpack\r\n\r\nChạy câu lệnh dưới đây trên cmd để cài đặt hai gói trên:\r\n\r\n```\r\nnpm install webpack webpack-cli webpack-dev-server\r\n```\r\n\r\nTiếp theo chúng ta sẽ tạo file cấu hình webpack cho project, đó là `webpack.config.js`\r\n\r\n````\r\n// webpack.config.js\r\nconst path = require('path')\r\nmodule.exports = {\r\n  mode: 'development',\r\n  entry: './src/main.js',\r\n  output: {\r\n    path: path.resolve(__dirname, './dist'),\r\n    filename: 'bundle.js'\r\n  },\r\n  devServer: {\r\n    static: {       \r\n      directory: path.resolve(__dirname, './dist')\r\n    }\r\n  }\r\n}\r\n````\r\n\r\nChúng ta sẽ chú ý tới ba mục chính: entry, output và devServer.\r\nKhi chúng ta khởi chạy project, Webpack đọc file `./src/main.js` và sinh ra file `bundle.js` trong thư mục `./dist`.\r\nĐồng thời, cấu hình của devServer được dùng khi chúng ta chạy project trên dev server.\r\n\r\nVề cơ bản thì chúng ta đã sẵn sàng để thực hiện 'bundle' (đóng gói) các file js. Tiếp tục khởi tạo thư mục `src` và file `./src/main.js`.\r\n\r\n```\r\n// ./src/main.js\r\nconsole.log('Hello World');\r\n```\r\n\r\nĐể khởi chạy project, chúng ta sẽ bổ sung thêm một số đoạn lệnh cho file `package.json`\r\n\r\n````\r\n{\r\n  // ...\r\n  \"scripts\": {\r\n    \"dev\": \"webpack serve\",\r\n    \"build\": \"webpack --mode production --progress --hide-modules\"\r\n  }\r\n  // ...\r\n}\r\n````\r\nCuối cùng, tạo file HTML đơn giản trong thư mục `/dist` với thẻ `script` gắn với file `bundle.js`.\r\n\r\n````\r\n<!DOCTYPE html>\r\n<html lang=\"en\">\r\n  <head>\r\n    <meta charset=\"utf-8\">\r\n    <meta name=\"viewport\" content=\"width=device-width,initial-scale=1.0\">\r\n    <title>TITLE HERE</title>\r\n  </head>\r\n  <body>\r\n    <script src=\"./bundle.js\"></script>\r\n  </body>\r\n</html>\r\n````\r\n\r\nChạy câu lệnh `npm run dev` trên cmd. Mở trình duyệt của bạn và truy cập vào [http://localhost:8080/](http://localhost:8080/)\r\n\r\n![localhost-8080](localhost-8080.png)\r\n\r\n## Cài đặt Vue\r\n\r\nMở cmd, chạy câu lệnh sau để cài đặt Vue. Chúng ta sẽ chọn phiên bản Vue mới nhất hiện tại là Vue 3\r\n\r\n````\r\nnpm install --save vue@next\r\n````\r\n\r\n:::tip\r\nMột số tài liệu hướng dẫn yêu cầu bạn cài thêm gói cài đặt `vue/compiler-sfc`. Tuy nhiên, với Vue 3, cụ thể là từ phiên bản `3.2.13+`, `vue/compiler-sfc` được tích hợp trong gói cài đặt `vue`. Vì vậy chúng ta không cần cài đặt riêng gói này nữa.\r\n:::\r\n\r\nĐến đây, chúng ta cần cài đặt thêm `vue-loader`:\r\n\r\n````\r\nnpm install -D vue-loader\r\n````\r\n\r\n`vue-loader` là một loader cho webpack, cho phép chúng ta tạo các file `.vue` dưới định dạng [Single-File Component](https://vue-loader.vuejs.org/spec.html), như ví dụ dưới đây:\r\n\r\n````\r\n<template>\r\n  <div class=\"example\">Hello World</div>\r\n</template>\r\n\r\n<script>\r\nexport default {\r\n  data () {}\r\n}\r\n</script>\r\n\r\n<style>\r\n.example {\r\n  color: green;\r\n}\r\n</style>\r\n````\r\n\r\nNếu bạn muốn tìm hiểu chi tiết hơn về `vue-loader`, bạn có thể truy cập tại [đây](https://vue-loader.vuejs.org/).\r\n\r\nTiếp đến, chúng ta cần bổ sung thêm cấu hình cho file `webpack.config.js`:\r\n\r\n````\r\nmodule: {\r\n  rules: [\r\n    // ... other rules\r\n    {\r\n      test: /\\.vue$/,\r\n      loader: 'vue-loader'\r\n    }\r\n  ]\r\n},\r\nplugins: [\r\n  // make sure to include the plugin!\r\n  new VueLoaderPlugin()\r\n]\r\n````\r\nChúng ta sẽ cập nhật lại file `./src/main.js` với nội dung như bên dưới:\r\n\r\n````\r\nimport { createApp } from 'vue';\r\n\r\nimport App from './App.vue'\r\n\r\ncreateApp(App).mount('#app')\r\n````\r\n\r\n:::info\r\nBất cứ một project Vue nào khi được build sẽ đều tạo một `instance` mới với phương thức `createApp` do `vue` cung cấp.\r\n\r\nObject chúng ta truyền vào phương thức `createApp` thực chất là một `component`. Bất kì project Vue nào cũng cần một `root component`, chứa các `component` mà chúng ta sẽ thêm vào khi mở rộng project.\r\n\r\nTrong thực tế, các project Vue bao gồm rất nhiều `component`, được tổ chức dưới dạng `tree`. Trong ảnh dưới, `root component` ở đây là `./src/App.vue`:\r\n\r\n![tree-components](tree-components.png)\r\n:::\r\n\r\nQuay trở lại với nội dung của file `./src/main.js`, `instance` Vue khởi tạo từ `createApp` sẽ thực thi phương thức `mount`.\r\nTham số truyền vào cho phương thức này có thể là một phần tử `DOM` hoặc chuỗi `selector`. Trong ví dụ cụ thể trên, chúng ta mong muốn nội dung của `root component` App.vue sẽ được hiển thị bên trong phần tử DOM có id `app`.\r\n\r\nĐó chính là phần tử DOM có id `app` bên trong file `./dist/index.html`:\r\n\r\n![element-id-app](element-id-app.png)\r\n\r\n\r\n\r\nVà cuối cùng, chúng ta khởi tạo file `./src/App.vue` với định dạng SFC mà ta đề cập khi cài đặt `vue-loader`.\r\nNội dung hiển thị là dòng chữ `Vue app`:\r\n\r\n````\r\n<template>\r\n  <div>Vue app</div>\r\n</template>\r\n\r\n<script>\r\nimport { defineComponent } from 'vue'\r\n\r\nexport default defineComponent({\r\n  template: `<div class=\"example\">App</div>`\r\n})\r\n</script>\r\n````\r\n\r\nVậy là xong 😁. Cấu trúc project Vue của bạn sẽ trông tương tự như của mình dưới đây:\r\n\r\n![project-structure](project-structure.png)\r\n\r\nChạy câu lệnh `npm run dev` trên cmd. Dòng chữ `Vue app` sẽ hiển thị trên trình duyệt của bạn.\r\n\r\n![vue-first-build](vue-first-build.png)\r\n\r\nProject Vue đã được build và run thành công 😁.\r\n\r\n## Tổng kết\r\n\r\nThông qua bài viết này, mình đã cùng các bạn tạo một project Vue từ đầu tới cuối với công cụ webpack.\r\nTừ đây, bạn có thể mở rộng project theo cách bạn muốn.\r\n\r\nVới việc tạo một project Vue từ đầu, bạn sẽ có một cái nhìn cụ thể hơn về cách mà Vue và công cụ `bundle` như webpack giúp chúng ta xây dựng project giao diện người dùng, hiểu được cách mà project được build và chạy như thế nào. Bạn sẽ có thêm kiến thức cơ bản để tự cấu hình cho project của mình thay vì phụ thuộc vào những tuỳ chỉnh mặc định mà Vue cung cấp.\r\n\r\nPeace."
     }
   ]
 }
