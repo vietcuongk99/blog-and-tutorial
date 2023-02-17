@@ -18,9 +18,9 @@ Vậy, chúng ta có cách nào để tạo một project Vue? Dưới đây là
 
 - [Vue.js](https://vuejs.org/guide/quick-start.html)
 
-```
+````js
 npm init vue@latest
-```
+````
 
 <p align="center">
   <img src="https://media.giphy.com/media/zcCGBRQshGdt6/giphy.gif" alt="animated" />
@@ -47,9 +47,9 @@ Trước hết, chúng ta cần khởi tạo project và chuẩn bị cho việc
 
 Tạo mới thư mục tên 'vue3-from-scratch', hoặc bất cứ cái tên nào mà bạn thích. Mở CMD và gõ dòng lệch bên dưới, đảm bảo rằng bạn đã cài đặt [Node.js](https://nodejs.org/en/download/) nhé:
 
-```
+````js
 npm init
-```
+````
 
 Các tuỳ chọn sẽ hiển thị tương tự như trong ảnh sau, bạn có thể lựa chọn không điền nếu muốn để mặc định:
 
@@ -80,13 +80,13 @@ Webpack cung cấp các gói cài đặt cần thiết, bao gồm `webpack dev s
 
 Chạy câu lệnh dưới đây trên cmd để cài đặt hai gói trên:
 
-```
+````js
 npm install webpack webpack-cli webpack-dev-server
-```
+````
 
 Tiếp theo chúng ta sẽ tạo file cấu hình webpack cho project, đó là `webpack.config.js`
 
-````
+````js
 // webpack.config.js
 const path = require('path')
 module.exports = {
@@ -110,26 +110,24 @@ Khi chúng ta khởi chạy project, Webpack đọc file `./src/main.js` và sin
 
 Về cơ bản thì chúng ta đã sẵn sàng để thực hiện 'bundle' (đóng gói) các file js. Tiếp tục khởi tạo thư mục `src` và file `./src/main.js`.
 
-```
+```js
 // ./src/main.js
 console.log('Hello World');
 ```
 
 Để khởi chạy project, chúng ta sẽ bổ sung thêm một số đoạn lệnh cho file `package.json`
 
-````
+````json
 {
-  // ...
   "scripts": {
     "dev": "webpack serve",
     "build": "webpack --mode production --progress --hide-modules"
   }
-  // ...
 }
 ````
 Cuối cùng, tạo file HTML đơn giản trong thư mục `/dist` với thẻ `script` gắn với file `bundle.js`.
 
-````
+````html
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -151,7 +149,7 @@ Chạy câu lệnh `npm run dev` trên cmd. Mở trình duyệt của bạn và 
 
 Mở cmd, chạy câu lệnh sau để cài đặt Vue. Chúng ta sẽ chọn phiên bản Vue mới nhất hiện tại là Vue 3
 
-````
+````js
 npm install --save vue@next
 ````
 
@@ -161,13 +159,13 @@ Một số tài liệu hướng dẫn yêu cầu bạn cài thêm gói cài đ�
 
 Đến đây, chúng ta cần cài đặt thêm `vue-loader`:
 
-````
+````js
 npm install -D vue-loader
 ````
 
 `vue-loader` là một loader cho webpack, cho phép chúng ta tạo các file `.vue` dưới định dạng [Single-File Component](https://vue-loader.vuejs.org/spec.html), như ví dụ dưới đây:
 
-````
+````js
 <template>
   <div class="example">Hello World</div>
 </template>
@@ -189,7 +187,7 @@ Nếu bạn muốn tìm hiểu chi tiết hơn về `vue-loader`, bạn có th�
 
 Tiếp đến, chúng ta cần bổ sung thêm cấu hình cho file `webpack.config.js`:
 
-````
+````js
 module: {
   rules: [
     // ... other rules
@@ -206,7 +204,7 @@ plugins: [
 ````
 Chúng ta sẽ cập nhật lại file `./src/main.js` với nội dung như bên dưới:
 
-````
+````js
 import { createApp } from 'vue';
 
 import App from './App.vue'
@@ -236,7 +234,7 @@ Tham số truyền vào cho phương thức này có thể là một phần tử
 Và cuối cùng, chúng ta khởi tạo file `./src/App.vue` với định dạng SFC mà ta đề cập khi cài đặt `vue-loader`.
 Nội dung hiển thị là dòng chữ `Vue app`:
 
-````
+````js
 <template>
   <div>Vue app</div>
 </template>
@@ -259,6 +257,8 @@ Chạy câu lệnh `npm run dev` trên cmd. Dòng chữ `Vue app` sẽ hiển t
 ![vue-first-build](vue-first-build.png)
 
 Project Vue đã được build và run thành công 😁.
+
+Source code tham khảo: [Github](https://github.com/vietcuongk99/vue-from-scratch)
 
 ## Tổng kết
 
