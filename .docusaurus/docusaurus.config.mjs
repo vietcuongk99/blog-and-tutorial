@@ -8,7 +8,7 @@ export default {
   "tagline": "Just a blog",
   "favicon": "img/favicon.ico",
   "url": "https://your-docusaurus-test-site.com",
-  "baseUrl": "/vi/",
+  "baseUrl": "/",
   "organizationName": "facebook",
   "projectName": "docusaurus",
   "onBrokenLinks": "throw",

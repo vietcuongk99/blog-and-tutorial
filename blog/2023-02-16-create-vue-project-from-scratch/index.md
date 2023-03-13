@@ -33,9 +33,7 @@ Một số câu hỏi cấu hình cho project sẽ do bạn chọn hoặc đư�
   <q><i>Life is not that easy</i></q> 😳
 </p>
 
-
 Tuy nhiên, nếu project của chúng ta mở rộng hơn trong tương lai? Sẽ có các vấn đề xảy đến, ví dụ bạn cần cấu hình cho project có nhiều hơn một entry point, hoặc cố gắng cải thiện hiệu suất,...
-
 
 Trong trường hợp trên, tốt hơn hết là chúng ta nên tạo project Vue từ đầu, cùng với công cụ là webpack. Bạn có thể đọc chi tiết về công cụ này tại đây:
 

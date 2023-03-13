@@ -1,178 +1,234 @@
 {
-  "/vi/__docusaurus/debug-0f5": {
+  "/__docusaurus/debug-29d": {
     "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "plugin---vi-docusaurus-debug-476-8a6"
+      "plugin": "plugin---docusaurus-debug-476-0a6"
     }
   },
-  "/vi/__docusaurus/debug/config-8f6": {
+  "/__docusaurus/debug/config-1be": {
     "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "plugin---vi-docusaurus-debug-476-8a6"
+      "plugin": "plugin---docusaurus-debug-476-0a6"
     }
   },
-  "/vi/__docusaurus/debug/content-05f": {
+  "/__docusaurus/debug/content-5a7": {
     "__comp": "__comp---theme-debug-contentba-8-ce7",
     "__context": {
-      "plugin": "plugin---vi-docusaurus-debug-476-8a6"
+      "plugin": "plugin---docusaurus-debug-476-0a6"
     },
-    "allContent": "allContent---vi-docusaurus-debug-content-246-fce"
+    "allContent": "allContent---docusaurus-debug-content-246-9aa"
   },
-  "/vi/__docusaurus/debug/globalData-574": {
+  "/__docusaurus/debug/globalData-738": {
     "__comp": "__comp---theme-debug-global-dataede-0fa",
     "__context": {
-      "plugin": "plugin---vi-docusaurus-debug-476-8a6"
+      "plugin": "plugin---docusaurus-debug-476-0a6"
     }
   },
-  "/vi/__docusaurus/debug/metadata-1d3": {
+  "/__docusaurus/debug/metadata-818": {
     "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
     "__context": {
-      "plugin": "plugin---vi-docusaurus-debug-476-8a6"
+      "plugin": "plugin---docusaurus-debug-476-0a6"
     }
   },
-  "/vi/__docusaurus/debug/registry-ce6": {
+  "/__docusaurus/debug/registry-c44": {
     "__comp": "__comp---theme-debug-registry-679-501",
     "__context": {
-      "plugin": "plugin---vi-docusaurus-debug-476-8a6"
+      "plugin": "plugin---docusaurus-debug-476-0a6"
     }
   },
-  "/vi/__docusaurus/debug/routes-953": {
+  "/__docusaurus/debug/routes-38d": {
     "__comp": "__comp---theme-debug-routes-946-699",
     "__context": {
-      "plugin": "plugin---vi-docusaurus-debug-476-8a6"
+      "plugin": "plugin---docusaurus-debug-476-0a6"
     }
   },
-  "/vi/blog-d93": {
+  "/blog-ce8": {
     "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
     "__context": {
-      "plugin": "plugin---vi-blog-295-bd9"
+      "plugin": "plugin---blog-295-ae3"
     },
-    "sidebar": "sidebar---vi-blog-814-e34",
+    "sidebar": "sidebar---blog-814-8ac",
     "items": [
       {
-        "content": "content---vi-blog-8-da-1c1"
+        "content": "content---bloged-1-ea9"
+      },
+      {
+        "content": "content---blog-8-da-8b0"
       }
     ],
-    "metadata": "metadata---vi-blog-5-fa-8f2"
+    "metadata": "metadata---blogb-2-b-df1"
   },
-  "/vi/blog/archive-c69": {
+  "/blog/archive-cf9": {
     "__comp": "__comp---theme-blog-archive-page-9-e-4-1d8",
     "__context": {
-      "plugin": "plugin---vi-blog-295-bd9"
+      "plugin": "plugin---blog-295-ae3"
     },
-    "archive": "archive---vi-blog-archive-509-a2b"
+    "archive": "archive---blog-archiveb-2-f-393"
   },
-  "/vi/blog/create vue project from scratch-a93": {
+  "/blog/create vue project from scratch-47e": {
     "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
-      "plugin": "plugin---vi-blog-295-bd9"
+      "plugin": "plugin---blog-295-ae3"
     },
-    "sidebar": "sidebar---vi-blog-814-e34",
-    "content": "content---vi-blog-create-vue-project-from-scratch-9-d-2-e5a"
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-create-vue-project-from-scratch-9-d-2-8d5"
   },
-  "/vi/blog/tags-c4f": {
+  "/blog/dark mode-f85": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "plugin": "plugin---blog-295-ae3"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-dark-mode-60-a-864"
+  },
+  "/blog/tags-c51": {
     "__comp": "__comp---theme-blog-tags-list-page-01-a-d0b",
     "__context": {
-      "plugin": "plugin---vi-blog-295-bd9"
+      "plugin": "plugin---blog-295-ae3"
     },
-    "sidebar": "sidebar---vi-blog-814-e34",
-    "tags": "tags---vi-blog-tagsda-8-f93"
+    "sidebar": "sidebar---blog-814-8ac",
+    "tags": "tags---blog-tagsa-70-da2"
   },
-  "/vi/blog/tags/vue-a13": {
+  "/blog/tags/css-f72": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
-      "plugin": "plugin---vi-blog-295-bd9"
+      "plugin": "plugin---blog-295-ae3"
     },
-    "sidebar": "sidebar---vi-blog-814-e34",
+    "sidebar": "sidebar---blog-814-8ac",
     "items": [
       {
-        "content": "content---vi-blog-8-da-1c1"
+        "content": "content---bloged-1-ea9"
       }
     ],
-    "tag": "tag---vi-blog-tags-vue-510-641",
-    "listMetadata": "listMetadata---vi-blog-tags-vueae-1-4fe"
+    "tag": "tag---blog-tags-cssce-9-12d",
+    "listMetadata": "listMetadata---blog-tags-css-018-d22"
   },
-  "/vi/blog/tags/webpack-857": {
+  "/blog/tags/html-ad4": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
-      "plugin": "plugin---vi-blog-295-bd9"
+      "plugin": "plugin---blog-295-ae3"
     },
-    "sidebar": "sidebar---vi-blog-814-e34",
+    "sidebar": "sidebar---blog-814-8ac",
     "items": [
       {
-        "content": "content---vi-blog-8-da-1c1"
+        "content": "content---bloged-1-ea9"
       }
     ],
-    "tag": "tag---vi-blog-tags-webpack-52-b-f6a",
-    "listMetadata": "listMetadata---vi-blog-tags-webpack-462-6de"
+    "tag": "tag---blog-tags-htmld-1-c-483",
+    "listMetadata": "listMetadata---blog-tags-html-589-d6a"
   },
-  "/vi/markdown-page-f34": {
+  "/blog/tags/js-46f": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blog-295-ae3"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---bloged-1-ea9"
+      }
+    ],
+    "tag": "tag---blog-tags-js-956-dff",
+    "listMetadata": "listMetadata---blog-tags-js-8-b-9-009"
+  },
+  "/blog/tags/vue-077": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blog-295-ae3"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---bloged-1-ea9"
+      },
+      {
+        "content": "content---blog-8-da-8b0"
+      }
+    ],
+    "tag": "tag---blog-tags-vue-595-dc7",
+    "listMetadata": "listMetadata---blog-tags-vuef-76-33c"
+  },
+  "/blog/tags/webpack-54b": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blog-295-ae3"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-8-da-8b0"
+      }
+    ],
+    "tag": "tag---blog-tags-webpack-0-a-4-eb3",
+    "listMetadata": "listMetadata---blog-tags-webpack-316-7b0"
+  },
+  "/markdown-page-84e": {
     "__comp": "__comp---theme-mdx-page-1-f-3-b90",
     "__context": {
-      "plugin": "plugin---vi-markdown-pagecc-0-7f8"
+      "plugin": "plugin---markdown-pagecc-0-755"
     },
-    "content": "content---vi-markdown-page-393-ea2"
+    "content": "content---markdown-page-393-028"
   },
-  "/vi/docs-72c": {
+  "/docs-774": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
-      "plugin": "plugin---vi-docs-176-d44"
+      "plugin": "plugin---docs-176-fdb"
     },
-    "versionMetadata": "versionMetadata---vi-docs-935-98e"
+    "versionMetadata": "versionMetadata---docs-935-398"
   },
-  "/vi/docs/category/tutorial---extras-0f0": {
+  "/docs/category/tutorial---extras-f09": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---vi-docs-category-tutorial-extrasbc-1-0f7"
+    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-tutorial-extrasc-84-abc"
   },
-  "/vi/docs/category/tutorial-basics-f96": {
+  "/docs/category/tutorial-basics-096": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---vi-docs-category-tutorial-basics-11-d-546"
+    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-tutorial-basics-161-226"
   },
-  "/vi/docs/intro-551": {
+  "/docs/intro-aed": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---vi-docs-introfec-26b"
+    "content": "content---docs-intro-0-e-3-be1"
   },
-  "/vi/docs/tutorial-basics/congratulations-d74": {
+  "/docs/tutorial-basics/congratulations-793": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---vi-docs-tutorial-basics-congratulations-427-03b"
+    "content": "content---docs-tutorial-basics-congratulations-822-958"
   },
-  "/vi/docs/tutorial-basics/create-a-blog-post-d41": {
+  "/docs/tutorial-basics/create-a-blog-post-68e": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---vi-docs-tutorial-basics-create-a-blog-post-96-d-9de"
+    "content": "content---docs-tutorial-basics-create-a-blog-post-533-e85"
   },
-  "/vi/docs/tutorial-basics/create-a-document-bae": {
+  "/docs/tutorial-basics/create-a-document-c2d": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---vi-docs-tutorial-basics-create-a-documentf-48-50f"
+    "content": "content---docs-tutorial-basics-create-a-document-1-e-4-078"
   },
-  "/vi/docs/tutorial-basics/create-a-page-8b0": {
+  "/docs/tutorial-basics/create-a-page-f44": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---vi-docs-tutorial-basics-create-a-page-15-e-658"
+    "content": "content---docs-tutorial-basics-create-a-page-5-c-8-e19"
   },
-  "/vi/docs/tutorial-basics/deploy-your-site-0bd": {
+  "/docs/tutorial-basics/deploy-your-site-e46": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---vi-docs-tutorial-basics-deploy-your-sitee-4-b-dfe"
+    "content": "content---docs-tutorial-basics-deploy-your-sitef-55-a3f"
   },
-  "/vi/docs/tutorial-basics/markdown-features-433": {
+  "/docs/tutorial-basics/markdown-features-4b7": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---vi-docs-tutorial-basics-markdown-features-40-d-b6e"
+    "content": "content---docs-tutorial-basics-markdown-features-18-c-a79"
   },
-  "/vi/docs/tutorial-extras/manage-docs-versions-bd6": {
+  "/docs/tutorial-extras/manage-docs-versions-fdd": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---vi-docs-tutorial-extras-manage-docs-versionsf-79-b7c"
+    "content": "content---docs-tutorial-extras-manage-docs-versionsdff-6d4"
   },
-  "/vi/docs/tutorial-extras/translate-your-site-d8c": {
+  "/docs/tutorial-extras/translate-your-site-2d7": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---vi-docs-tutorial-extras-translate-your-site-2-c-3-693"
+    "content": "content---docs-tutorial-extras-translate-your-sitee-44-ddf"
   },
-  "/vi/docs/VueJS/installation-a46": {
+  "/docs/VueJS/installation-0d0": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---vi-docs-vue-js-installationaf-2-2ff"
+    "content": "content---docs-vue-js-installationc-3-e-974"
   },
-  "/vi/-707": {
+  "/-efc": {
     "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
     "__context": {
-      "plugin": "plugin---vi-markdown-pagecc-0-7f8"
+      "plugin": "plugin---markdown-pagecc-0-755"
     },
-    "config": "config---vi-5-e-9-d23"
+    "config": "config---5-e-9-4f3"
   }
 }

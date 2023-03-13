@@ -2,8 +2,12 @@
   "title": "Recent posts",
   "items": [
     {
+      "title": "Ví dụ về Dark mode trong lập trình ứng dụng web",
+      "permalink": "/blog/dark mode"
+    },
+    {
       "title": "Tạo project Vue 3 sử dụng Webpack",
-      "permalink": "/vi/blog/create vue project from scratch"
+      "permalink": "/blog/create vue project from scratch"
     }
   ]
 }

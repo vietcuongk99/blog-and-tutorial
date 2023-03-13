@@ -1,19 +1,19 @@
 {
-  "permalink": "/vi/blog/create vue project from scratch",
+  "permalink": "/blog/create vue project from scratch",
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2023-02-16-create-vue-project-from-scratch/index.md",
   "source": "@site/blog/2023-02-16-create-vue-project-from-scratch/index.md",
   "title": "Tạo project Vue 3 sử dụng Webpack",
   "description": "Lời mở đầu",
   "date": "2023-02-16T00:00:00.000Z",
-  "formattedDate": "16 tháng 2, 2023",
+  "formattedDate": "February 16, 2023",
   "tags": [
     {
       "label": "vue",
-      "permalink": "/vi/blog/tags/vue"
+      "permalink": "/blog/tags/vue"
     },
     {
       "label": "webpack",
-      "permalink": "/vi/blog/tags/webpack"
+      "permalink": "/blog/tags/webpack"
     }
   ],
   "readingTime": 6.985,
@@ -37,5 +37,9 @@
       "vue",
       "webpack"
     ]
+  },
+  "prevItem": {
+    "title": "Ví dụ về Dark mode trong lập trình ứng dụng web",
+    "permalink": "/blog/dark mode"
   }
 }

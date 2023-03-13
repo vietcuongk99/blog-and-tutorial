@@ -12,7 +12,7 @@
       {
         "type": "link",
         "label": "Tutorial Intro",
-        "href": "/vi/docs/intro",
+        "href": "/docs/intro",
         "docId": "intro"
       },
       {
@@ -24,41 +24,41 @@
           {
             "type": "link",
             "label": "Create a Page",
-            "href": "/vi/docs/tutorial-basics/create-a-page",
+            "href": "/docs/tutorial-basics/create-a-page",
             "docId": "tutorial-basics/create-a-page"
           },
           {
             "type": "link",
             "label": "Create a Document",
-            "href": "/vi/docs/tutorial-basics/create-a-document",
+            "href": "/docs/tutorial-basics/create-a-document",
             "docId": "tutorial-basics/create-a-document"
           },
           {
             "type": "link",
             "label": "Create a Blog Post",
-            "href": "/vi/docs/tutorial-basics/create-a-blog-post",
+            "href": "/docs/tutorial-basics/create-a-blog-post",
             "docId": "tutorial-basics/create-a-blog-post"
           },
           {
             "type": "link",
             "label": "Markdown Features",
-            "href": "/vi/docs/tutorial-basics/markdown-features",
+            "href": "/docs/tutorial-basics/markdown-features",
             "docId": "tutorial-basics/markdown-features"
           },
           {
             "type": "link",
             "label": "Deploy your site",
-            "href": "/vi/docs/tutorial-basics/deploy-your-site",
+            "href": "/docs/tutorial-basics/deploy-your-site",
             "docId": "tutorial-basics/deploy-your-site"
           },
           {
             "type": "link",
             "label": "Congratulations!",
-            "href": "/vi/docs/tutorial-basics/congratulations",
+            "href": "/docs/tutorial-basics/congratulations",
             "docId": "tutorial-basics/congratulations"
           }
         ],
-        "href": "/vi/docs/category/tutorial-basics"
+        "href": "/docs/category/tutorial-basics"
       },
       {
         "type": "category",
@@ -69,17 +69,17 @@
           {
             "type": "link",
             "label": "Manage Docs Versions",
-            "href": "/vi/docs/tutorial-extras/manage-docs-versions",
+            "href": "/docs/tutorial-extras/manage-docs-versions",
             "docId": "tutorial-extras/manage-docs-versions"
           },
           {
             "type": "link",
             "label": "Translate your site",
-            "href": "/vi/docs/tutorial-extras/translate-your-site",
+            "href": "/docs/tutorial-extras/translate-your-site",
             "docId": "tutorial-extras/translate-your-site"
           }
         ],
-        "href": "/vi/docs/category/tutorial---extras"
+        "href": "/docs/category/tutorial---extras"
       },
       {
         "type": "category",
@@ -89,8 +89,8 @@
         "items": [
           {
             "type": "link",
-            "label": "Tạo project VueJS 3 với Webpack, Babel",
-            "href": "/vi/docs/VueJS/installation",
+            "label": "Creating Your First Vue 3 Project - A Vue Tutorial",
+            "href": "/docs/VueJS/installation",
             "docId": "VueJS/installation"
           }
         ]
@@ -154,8 +154,8 @@
     },
     "VueJS/installation": {
       "id": "VueJS/installation",
-      "title": "Tạo project VueJS 3 với Webpack, Babel",
-      "description": "Cập nhật vào 16/2/2023",
+      "title": "Creating Your First Vue 3 Project - A Vue Tutorial",
+      "description": "Last Updated on Dec 30, 2020",
       "sidebar": "tutorialSidebar"
     }
   }
